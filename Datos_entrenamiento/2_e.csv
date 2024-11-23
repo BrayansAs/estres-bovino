@@ -1,4 +1,4 @@
-Fecha,Hora,period eating,period other,period resting,period rumination,period eating_count,period other_count,period resting_count,period rumination_count,nivel_actividad,Nivel_estres
+Fecha,Hora,period eating,period other,period resting,period rumination,period eating_count,period other_count,period resting_count,period rumination_count,nivel_actividad,nivel_estres
 2024-01-01,0,0.0,0.0,0.882,0.118,0.0,0.0,1.0,1.0,-0.4956480491735402,normal
 2024-01-01,1,0.0,0.0,0.102,0.898,0.0,0.0,2.0,2.0,0.045362237724736,normal
 2024-01-01,2,0.0,0.0,0.482,0.518,0.0,0.0,1.0,1.0,-0.2182068764051933,normal
